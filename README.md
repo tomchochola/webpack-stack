@@ -1,190 +1,259 @@
-# Preview [https://github.com/premierstacks/webpack-stack](https://github.com/premierstacks/webpack-stack)
+# Premierstacks Public Preview
 
-This repository gives you a glimpse into the features and benefits of our premium **premierstacks/webpack-stack** package.<br />
-By exploring the contents here, you’ll get an overview of what to expect from our full package, so you can make an informed decision before purchasing.
+**This file has been extracted from: [https://github.com/premierstacks/webpack-stack](https://github.com/premierstacks/webpack-stack)**
 
-## Steps to Explore and Get Started
+Premierstacks is a collection of proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. Because these repositories are private and accessible only through a valid license, we offer this public preview to provide transparency and allow potential users to review the content before making a purchase.
 
-### 1. **Explore the Offer**
+By extracting key documentation and selected sample files to public repositories, we ensure that you can evaluate the quality, structure, and approach of Premierstacks without needing full access. This way, you can make an informed decision about whether our solutions are the right fit for your projects.
 
-Dive into the features and benefits of the **premierstacks/webpack-stack** package by browsing through the provided files and documentation.
+To access the complete repositories, along with continuous updates and premium support, a valid Premierstacks license is required.
 
-### 2. **Buy a License**
-
-> **[https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**
-
-If you find the package useful, support the development by purchasing a license. This will grant you access to the full version with all features.
-
-### 3. **Install the Package**
-
-> **[https://github.com/premierstacks/webpack-stack](https://github.com/premierstacks/webpack-stack)**
-
-Check out the complete package to see all the available features and updates.
-
-Follow the installation instructions provided in the full package repository to get started with **premierstacks/webpack-stack**.
-
-## Useful links
-
-**Buy your license here**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Access the source code**: [https://github.com/premierstacks/webpack-stack](https://github.com/premierstacks/webpack-stack)<br />
-**See previews of other packages**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Explore all premium packages**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+**Purchase a license here: [GitHub Sponsors](https://github.com/sponsors/tomchochola).**
 
 ---
+
+**Original content starts here!**
+
+---
+
 # [Webpack Stack](https://github.com/premierstacks/webpack-stack) by [Tomáš Chochola](https://github.com/tomchochola)
 
-Optimize your web development with our Webpack Stack: a comprehensive suite designed for efficiency and advanced functionality in modern web projects. Perfect for streamlining your build process.
+✨ _**Clone and Win!**_
 
-Our Webpack Stack equips you with a premium suite of configurations, incorporating the latest Webpack features and plugins to enhance your development and build processes. Tailored for rapid integration, it ensures optimal performance from development to production, offering a strategic asset for your web applications. This package is a result of extensive research and expertise, providing a streamlined setup that boosts development efficiency. With configurations for different environments and project types, including advanced asset handling and flexible presets, our Webpack Stack is an essential tool for developers aiming for high-quality web applications.
+The Webpack Stack offers a collection of ready-to-use configurations for building, bundling, and optimizing JavaScript, TypeScript, and React applications. It provides pre-configured setups designed for both browser and Node.js environments, allowing you to quickly get started with complex Webpack projects without spending time on configuration.
 
-## 👌 Top Reasons to Opt for Our Premium Webpack Stack
+## What is Webpack Stack?
 
-By incorporating our Premium Webpack Stack into your development toolkit, you're not just optimizing your build process; you're adopting a strategic asset that enhances development efficiency, ensures optimal performance, and sets your web applications apart in the digital landscape.
+The Webpack Stack is part of the Premierstacks collection and serves as a comprehensive solution for managing Webpack configurations across different project types. It offers a variety of pre-configured templates tailored to specific scenarios, such as browser-based applications, React libraries, and Node.js server-side projects. Each template is designed to simplify complex build processes by integrating advanced features like chunking, module federation, and asset optimization out of the box.
 
-### ⏱️ Setup in Just 5 Minutes
+The stack provides a set of helper functions and utilities, allowing you to effortlessly integrate Webpack into existing projects or build new ones from scratch. Whether you're working on a frontend application or a backend library, the Webpack Stack abstracts away the complexity of configuring loaders, plugins, and optimizers, giving you a solid foundation for any type of project.
 
-Jumpstart your web development projects with our premium Webpack Stack, crafted for swift integration. This comprehensive suite ensures you're equipped with the latest Webpack features and plugins, streamlining your setup process and getting you ready for development in no time.
+With the Webpack Stack, you can quickly set up your project’s development and production builds, minimize assets like CSS and JavaScript, and manage both static and dynamic imports. It is designed to be flexible and extendable, ensuring compatibility with various use cases and making it easy to enforce best practices across all your Webpack-based projects.
 
-### 🕒 Hundreds of Hours of Research, So You Don't Have To
+## What is Tomchochola
 
-Leverage our extensive research and expertise in Webpack's ecosystem, encapsulated in this premium config. We've distilled best practices, advanced tooling configurations, and the latest optimizations into a package that saves you countless hours of setup and configuration.
+[https://github.com/tomchochola](https://github.com/tomchochola)
 
-### 🎚️ Minimal Setup, Maximum Efficiency
+This is my personal GitHub profile, where you’ll find public documentation and sample repositories for proprietary packages and templates from Premierstacks. These public repositories are designed to give you an overview of the best practices and high-quality code I follow in all my projects.
 
-Dive into your projects with configurations designed for efficiency. From development to production, our Webpack Stack is optimized for speed, performance, and ease of use, ensuring your workflow is seamless and your builds are fast.
+## What is Premierstacks
 
-### 📘 Zero Expertise Required
+[https://github.com/premierstacks](https://github.com/premierstacks)
 
-Our Webpack Stack is engineered for accessibility, making advanced Webpack features and optimizations available to developers of all skill levels. With minimal need for manual tweaking, you can achieve professional-grade results without being a Webpack expert.
+Premierstacks is a collection of exclusive, proprietary stacks and templates for PHP, JavaScript, TypeScript, React, and Laravel. It was created to address the common pain points developers face with many open-source projects—quality, consistency, and maintainability. With Premierstacks, you get high-quality tools built with strict attention to detail, designed to help you build and maintain better projects, faster.
 
-### 🔄 Continuously Updated
+## Why Premierstacks?
 
-Stay at the forefront of web development with a Webpack Stackuration that evolves. We regularly update our suite to include the latest Webpack enhancements and plugins, keeping your projects cutting-edge and compliant with modern web standards.
+I created Premierstacks because I wasn’t satisfied with the quality of many open-source projects. Maintaining high-quality code and ensuring long-term reliability is challenging when you’re not earning from the product. When you pay for something, it means the creator truly cares about its success and is committed to delivering the best possible outcome.
 
-### ⚔️ Battle-Tested Reliability
+Like Apple’s approach with their closed ecosystem, I believe that true excellence can only be achieved when every detail is under your control. That’s why Premierstacks is proprietary software—it's not just about providing solutions; it’s about ensuring those solutions meet the highest standards.
 
-Trust in a Webpack Stack that's been rigorously tested across diverse web development projects. Whether you're building a simple static site or a complex web application, our configurations provide a reliable foundation for your build process, ensuring consistency and quality in your outputs.
+### Why You Should Choose Premierstacks
 
-### 🏆 Premier Quality Guarantee
+**🚀 Unmatched Quality**
 
-Opting for our Webpack Stack signifies a commitment to excellence in web development. This suite is more than a set of configurations; it's a comprehensive solution that elevates your development and build processes, ensuring your projects are built on a foundation of quality and innovation.
+Our solutions adhere to the highest standards, ensuring clean and maintainable code.
 
-## 🛡️ License & Usage
+**⚙️ No Setup Hassles**
 
-**Copyright © 2024+ Tomáš Chochola <chocholatom1997@gmail.com> - All Rights Reserved**
+Pre-configured environments let you start coding immediately—no more complex setups.
 
-[![License](https://img.shields.io/badge/License-©_Proprietary-blue.svg)](LICENSE.md)
+**📦 Reuse Across Projects**
 
-This software is the exclusive property of Tomáš Chochola, protected by copyright laws.<br />
-Although the source code may be accessible, it is not free for use without a valid license.<br />
-A valid license, obtainable through proper channels, is required for any software use.<br />
-For licensing or inquiries, please contact Tomáš Chochola or refer to the GitHub Sponsors page.
+Each library and template is built to be reusable, reducing long-term maintenance.
 
-The full license terms are detailed in the LICENSE.md file within the source code repository.<br />
-The terms are subject to changes. Users are encouraged to review them periodically.
+**🔒 Exclusive Resources**
 
-**Email:** <chocholatom1997@gmail.com><br />
-**Personal GitHub:** [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub:** [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License:** [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Premierstacks offers tools you won’t find in typical open-source collections.
 
-### Acquiring a License
+**🛠️ Always Up-to-Date**
 
-To use this software, you must obtain a valid license available through a monthly subscription on the [Sponsor & License](https://github.com/sponsors/tomchochola).<br />
-This platform has been chosen for its reliability and ease of use, providing a secure and straightforward way to manage your subscription.
+Receive continuous updates and new features, keeping your projects current.
 
-## 🖍️ Highlights
+**💪 Expert Creators**
 
-- **Modern Webpack Features**: Incorporates the latest in Webpack's features, ensuring your project benefits from the most advanced tools and optimizations.
-- **Comprehensive Plugin Integration**: Comes equipped with a wide array of essential Webpack plugins for asset optimization, CSS extraction, code splitting, and more, enhancing performance and efficiency.
-- **Flexible Configuration Presets**: Offers a selection of preconfigured setups like browser, browserTs, reactTs, accommodating various project types and requirements.
-- **Optimized for Development & Production**: Tailored configurations for development and production environments ensure optimal performance and debugging capabilities.
-- **Advanced Asset Handling**: Utilizes advanced loaders and plugins for comprehensive asset management, including images, fonts, and stylesheets, streamlining the build process.
+Developed by experienced professionals dedicated to quality and excellence.
 
-## 🎨 Available Configuration Presets
+## License
 
-Choose from a variety of preconfigured presets:
+**© 2024–Present Tomáš Chochola <chocholatom1997@gmail.com>. All rights reserved.**
 
-- **browser**: Configured for vanilla JavaScript projects, ensuring efficient bundling and asset management.
-- **browserTs**: Tailored for TypeScript-based web projects, integrating ts-loader for TypeScript compilation alongside standard web asset handling.
-- **reactTs**: Optimized for React projects using TypeScript, setting up JSX transformation and style processing for a seamless development experience.
-- **chunks, copy, html, library**: Utility configurations for code splitting, static asset copying, HTML file processing, and library bundling, respectively, offering further customization and optimization options.
+This software is proprietary and licensed under specific terms set by its owner.<br />
+Any form of access, use, or distribution requires a valid and active license.<br />
+For full licensing terms, refer to the LICENSE.md file accompanying this software.<br />
 
-## 🎬 Get Started
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
 
-### 1️⃣ License Acquisition
+**See full terms here: [/LICENSE.md](/LICENSE.md)**
 
-Secure your license at [Sponsor & License](https://github.com/sponsors/tomchochola).
+## Module exports
 
-### 2️⃣ Package Installation
+Here are the available module exports:
 
-```shell
+```js
+import {
+  browserTypescriptReactApp,
+  browserTypescriptReactLibrary,
+  browserTypescriptApp,
+  browserTypescriptLibrary,
+  nodeTypescriptApp,
+  nodeTypescriptLibrary,
+  nodeTypescriptReactApp,
+  nodeTypescriptReactLibrary,
+  chunks,
+  copy,
+  getWebpackMode,
+  html,
+  isWebpackBuild,
+  isWebpackDevelopment,
+  isWebpackProduction,
+  isWebpackServe,
+  isWebpackWatch,
+} from '@premierstacks/eslint-stack';
+```
+
+## Templates
+
+Explore the predefined templates for various configurations in the [/templates](/templates) directory. These templates provide quick-start setups for different environments.
+
+**[/templates/browser_typescript_react_app.template](/templates/browser_typescript_react_app.template)**<br />
+**[/templates/browser_typescript_react_library.template](/templates/browser_typescript_react_library.template)**<br />
+**[/templates/browser_typescript_app.template](/templates/browser_typescript_app.template)**<br />
+**[/templates/browser_typescript_library.template](/templates/browser_typescript_library.template)**<br />
+**[/templates/node_typescript_react_app.template](/templates/node_typescript_react_app.template)**<br />
+**[/templates/node_typescript_react_library.template](/templates/node_typescript_react_library.template)**<br />
+**[/templates/node_typescript_app.template](/templates/node_typescript_app.template)**<br />
+**[/templates/node_typescript_library.template](/templates/node_typescript_library.template)**<br />
+
+## Getting Started
+
+**1. Review the documentation and license**
+
+Ensure this package fits your needs and that you agree with the terms.
+
+**2. Obtain a license**
+
+**Purchase a license here: [Github Sponsors](https://github.com/sponsors/tomchochola)**
+
+**3. Install the package**
+
+Install using npm:
+
+```bash
 npm install --save-dev github:premierstacks/webpack-stack
 ```
 
-### 3️⃣ Configuration
+**4. Select a template**
 
-Initialize your `webpack.config.js`:
+Choose one of the predefined configuration templates from the [/templates](/templates) directory that best suits your project’s needs.
 
-```js
-import { configs } from '@premierstacks/webpack-stack';
+Use the `cp` command to copy it into your project as `/webpack.config.js`:
 
-export default function (env, argv) {
-  const config = configs.browserTs(env, argv, ['./src/index.ts', './src/index.scss']);
-
-  // Additional configurations
-  configs.chunks(env, argv, config);
-  configs.html(env, argv, config, './src/index.html', 'index.html', true);
-  configs.copy(env, argv, config, './public', '.');
-
-  // For library creators
-  configs.library(env, argv, config, 'myLibrary');
-
-  return config;
-}
+```bash
+cp ./node_modules/@premierstacks/webpack-stack/templates/browser_typescript_react_app.template./webpack.config.js
+# or
+cp ./node_modules/@premierstacks/webpack-stack/templates/browser_typescript_react_library.template./webpack.config.js
+# or
+cp ./node_modules/@premierstacks/webpack-stack/templates/browser_typescript_app.template./webpack.config.js
+# or
+cp ./node_modules/@premierstacks/webpack-stack/templates/browser_typescript_library.template./webpack.config.js
+# or
+cp ./node_modules/@premierstacks/webpack-stack/templates/node_typescript_react_app.template./webpack.config.js
+# or
+cp ./node_modules/@premierstacks/webpack-stack/templates/node_typescript_react_library.template./webpack.config.js
+# or
+cp ./node_modules/@premierstacks/webpack-stack/templates/node_typescript_app.template./webpack.config.js
+# or
+cp ./node_modules/@premierstacks/webpack-stack/templates/node_typescript_library.template./webpack.config.js
 ```
 
-### 4️⃣ Attribution
+**5. CLI**
 
-Please ensure to manually give credits to the authors in your project documentation or wherever appropriate, as per the license agreement.
+Execute commands:
 
-### 5️⃣ Usage
-
-```shell
-# Start the development server
+```bash
+# start the development server
 ./node_modules/.bin/webpack-cli serve --mode=development --node-env=development
 
-# Build the project for development
+# build the project for development
 ./node_modules/.bin/webpack-cli build --mode=development --node-env=development
 
-# Build the project for production
+# build the project for production
 ./node_modules/.bin/webpack-cli build --mode=production --node-env=production
 ```
 
-## The Author: Tomáš Chochola
+**4. See the samples**
 
-_Elite developer crafting exclusive, enterprise-grade software, professional packages, and premium templates to elevate your digital landscape._
+Explore the samples in the [/samples](/samples) directory to see how to use the package in various scenarios.
 
-Tomáš Chochola is the creator and project visionary behind this project.<br />
-His expertise and innovative approach have been instrumental in shaping the project's direction and ensuring its success.<br />
-Tomáš Chochola's commitment to excellence and his passion for development are reflected in the quality and reliability of the project.
+**5. Use the package**
 
-**E-mail**: <chocholatom1997@gmail.com><br />
-**Personal GitHub**: [https://github.com/tomchochola](https://github.com/tomchochola)<br />
-**Premierstacks GitHub**: [https://github.com/premierstacks](https://github.com/premierstacks)<br />
-**Sponsor & License**: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)<br />
-**Premierstacks website**: [https://premierstacks.com](https://premierstacks.com)
+Start using the package in your project.
 
-## 🌐 Discover Tomáš Chochola's GitHub Universe
+## About the Creator
 
-Explore the boundless creativity and innovation in [Personal GitHub](https://github.com/tomchochola). As the epicenter of my digital creations, it offers an extensive collection of avant-garde software packages, refined libraries, and polished templates, meticulously crafted to enhance your development journey. Immerse yourself in a world where efficiency and elegance converge, and elevate your projects with tools that redefine excellence.
+I'm Tomáš Chochola, a software developer dedicated to creating exclusive, enterprise-grade software solutions. I specialize in building packages and templates for PHP, JavaScript, and TypeScript, tailored to streamline development workflows, enforce best practices, and save you time.
 
-## 💰 Empower Innovation: Support and Subscribe
+My mission is to develop reusable solutions that enhance code quality, boost productivity, and ensure that projects remain maintainable and scalable over the long term.
 
-Your support transcends mere contributions; it's the lifeblood of innovation and growth. By subscribing for premium access or becoming a sponsor, you directly contribute to the advancement of high-caliber software. Embrace the opportunity to be part of a visionary journey by visiting my [Sponsor & License](https://github.com/sponsors/tomchochola).
+### Specializations
 
-## 🤝 Join Forces with Tomáš Chochola
+**Backend Development:** Expert in PHP and Laravel<br />
+**Frontend Development:** Mastery in TypeScript, React, and JavaScript<br />
+**DevOps:** Proficient in managing Ubuntu and AWS environments<br />
+**Security:** Focused on implementing best practices and enforcing code standards<br />
+**Tooling:** Extensive experience with ESLint, Prettier, PHP CS Fixer, Stylelint, and PHPStan<br />
+**Reusable Solutions:** Creating templates and configuration stacks for optimized development<br />
+**Development Environments:** Fluent in Windows 11 and Ubuntu (WSL2)<br />
 
-Embark on a collaborative venture with a developer whose passion for perfection knows no bounds. Whether it's for groundbreaking startups, global enterprises, or transformative government projects, my arsenal of skills is at your command. Let's merge visions and craftsmanship to forge software that stands a class apart. Connect with me at <chocholatom1997@gmail.com> for collaborations that transcend conventional boundaries.
+## Contact
+
+**📧 Email: <chocholatom1997@gmail.com>**<br />
+**💻 Website: [https://premierstacks.com](https://premierstacks.com)**<br />
+**👨 GitHub Personal: [https://github.com/tomchochola](https://github.com/tomchochola)**<br />
+**🏢 GitHub Organization: [https://github.com/premierstacks](https://github.com/premierstacks)**<br />
+**💰 GitHub Sponsors: [https://github.com/sponsors/tomchochola](https://github.com/sponsors/tomchochola)**<br />
+
+## Tree
+
+The following is a breakdown of the folder and file structure within this repository. It provides an overview of how the code is organized and where to find key components.
+
+```bash
+.
+├── AUTHORS.md
+├── LICENSE.md
+├── Makefile
+├── README.md
+├── assets
+│   └── favicon.ico
+├── eslint.config.js
+├── package.json
+├── prettier.config.js
+├── src
+│   ├── configs
+│   │   ├── browser_typescript_app.js
+│   │   ├── browser_typescript_library.js
+│   │   ├── browser_typescript_react_app.js
+│   │   ├── browser_typescript_react_library.js
+│   │   ├── node_typescript_app.js
+│   │   ├── node_typescript_library.js
+│   │   ├── node_typescript_react_app.js
+│   │   └── node_typescript_react_library.js
+│   ├── index.js
+│   └── utils
+│       ├── chunks.js
+│       ├── copy.js
+│       ├── env.js
+│       └── html.js
+└── templates
+    ├── browser_typescript_app.template
+    ├── browser_typescript_library.template
+    ├── browser_typescript_react_app.template
+    ├── browser_typescript_react_library.template
+    ├── node_typescript_app.template
+    ├── node_typescript_library.template
+    ├── node_typescript_react_app.template
+    └── node_typescript_react_library.template
+
+5 directories, 29 files
+```
