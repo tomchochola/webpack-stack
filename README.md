@@ -100,7 +100,8 @@ import {
   nodeTypescriptLibrary,
   nodeTypescriptReactApp,
   nodeTypescriptReactLibrary,
-  chunks,
+  reactChunks,
+  vendorChunks,
   copy,
   getWebpackMode,
   html,
@@ -220,6 +221,10 @@ The following is a breakdown of the folder and file structure within this reposi
 
 ```bash
 .
+├── .editorconfig
+├── .gitattributes
+├── .gitignore
+├── .prettierignore
 ├── AUTHORS.md
 ├── LICENSE.md
 ├── Makefile
@@ -255,5 +260,5 @@ The following is a breakdown of the folder and file structure within this reposi
     ├── node_typescript_react_app.template
     └── node_typescript_react_library.template
 
-5 directories, 29 files
+5 directories, 33 files
 ```
